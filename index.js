@@ -10,6 +10,11 @@
  */
 
 // Part 1 answer 👇🏻 ...
+const fullName = "Abdullah Matouq AlMatouq";
+const yearOfBirth = 1998;
+let hobby = "Cooking";
+let funFact = "I play Games";
+const image = "https://mcdn.wallpapersafari.com/medium/8/98/hWZ67C.jpg";
 
 
 
@@ -32,7 +37,9 @@
 // const fullNameString = `My name is ${}`;
 // const yearOfBirthString =
 // const hobbyString =
-
+const fullNameString = `My name is ${fullName}`;
+const yearOfBirthString = `I am ${2023 - 1998} years old`;
+const hobbyString = `My hobby is ${hobby}`;
 
 
 
